@@ -234,6 +234,7 @@ footer {
 }
 
 .footer-section {
+    font-size: 1.25rem;
     justify-content: center;
     padding: 38px 410px;
     text-align: center;
@@ -282,8 +283,7 @@ footer {
         margin-left: 25px;
     }
     .footer-section{
-        padding: 0;
-        margin: 0;
+        padding:10px;
     }
 }
 
@@ -310,5 +310,8 @@ footer {
     #experience-badge {
         margin-top: 80px;
         margin-left: 100px;
+    }
+    .footer-section{
+        padding: 35px;
     }
 }
